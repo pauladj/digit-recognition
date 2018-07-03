@@ -15,3 +15,5 @@ El objetivo de este problema será preprocesar los datos y clasificar instancias
 
 ## Resultados
 Se ha conseguido una precisión de un **94,15%**
+
+f-measure de **0,94**
