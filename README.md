@@ -1,9 +1,9 @@
 # digit-recognition
-El objetivo de este problema sera preprocesar los datos y clasificar
-instancias test.
-Pre-condiciones: archivos train y test en formato arff
-Post-condiciones: se imprime por pantalla el porcentaje de aciertos
-del clasificador elegido.
+El objetivo de este problema será preprocesar los datos y clasificar instancias test.
+
+*Pre-condiciones: archivos train y test en formato arff*
+
+*Post-condiciones: se imprime por pantalla el porcentaje de aciertos del clasificador elegido.*
 
 ## Proceso
 1. Preprocesado de datos train.arff aplicando filtros.
